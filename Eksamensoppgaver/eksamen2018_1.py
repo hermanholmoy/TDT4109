@@ -1,3 +1,5 @@
+#https://learn-eu-central-1-prod-fleet01-xythos.s3.eu-central-1.amazonaws.com/5def77a38a2f7/2957158?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27TDT4110%25202018%2520sett%25202%25281%2529.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201004T090000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAZH6WM4PL5M5HI5WH%2F20201004%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=86be9387d185252223203211a2b12b6ccc91cd66200565d82815548ff9e2ea15
+
 def menu():
     print(
         """
