@@ -121,12 +121,11 @@ venv.bak/
 /site
 
 # mypy
-.mypy_cache/
+.mypy_cache/x≈≈
 .dmypy.json
 dmypy.json
 
 # Pyre type checker
 .pyre/
-
 
 .vscode/
