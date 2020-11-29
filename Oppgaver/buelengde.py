@@ -8,6 +8,10 @@ def f(x):
     return x**2
 
 
+def g(x):
+    return 2/3*(x**2-1)^(3/2)
+
+
 def get_dist(x, y):
 
     l = [[x[i], y[i]] for i in range(len(x))]
@@ -46,4 +50,4 @@ def buelengde(f, a, b, n, m):
     plt.show()
 
 
-buelengde(f, 0, 3, 1000, 5)
+buelengde(f, 1, 10, 1000, 10)
