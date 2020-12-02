@@ -86,10 +86,12 @@ def list_content(fname, choice):
 def list_songs_genre(fname):
     data = read_file(fname)
     genres = ["Rock", "Folk", "Blues", "Pop", "Country"]
-    genre = input(f"Choose genre: ({', '.join(genres)}) ")
+    genre = input("Choose genre {}: ".format(genres))
+    print(genre)
 
     if genre not in genres:
         return ([], "0:0")
 
-    res = []
-    for song in
+
+
+list_songs_genre("data.txt")
